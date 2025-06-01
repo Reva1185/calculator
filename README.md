@@ -33,13 +33,11 @@ A modern, responsive web-based calculator built with HTML, CSS, and JavaScript. 
 | Backspace | Delete last character |
 | . | Decimal point |
 
-## 🚀 Demo
-
-
 
 ## 📷 Screenshots
 
-![Calculator Screenshot](screenshots/calculator-demo.png)
+![image](https://github.com/user-attachments/assets/08cd5be4-8eac-42f3-831d-76662efa551f)
+
 
 *Modern glass-morphism design with gradient background*
 
